@@ -1,2 +1,0 @@
-**hello**
-menya zovyt vasya
