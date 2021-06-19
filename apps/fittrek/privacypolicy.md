@@ -14,7 +14,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **The app does use third party services that may collect information used to identify you. The app accesses the amount of steps that you have taken, according to your Google account. Your data is not shared others. Your data is converted to speech which is them emittted when the user taps on the screen.**
 
-**This app uses Google Play Services.**
+**This app employs Google Play Services.**
 
 **Log Data**
 
@@ -49,4 +49,4 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2021-06-18
+This policy is effective as of 2021-06-19
