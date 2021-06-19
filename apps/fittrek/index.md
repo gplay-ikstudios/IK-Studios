@@ -1,4 +1,4 @@
-Welcome to FitTrek - Offline Talking Fitness Tracker.
+**Welcome to FitTrek - Offline Talking Fitness Tracker.**
 
 ![FitTrek - Offline Talking Fitness Tracker Logo](https://github.com/gplay-ikstudios/gplay-ikstudios.github.io/blob/gh-pages/apps/fittrek/submitted_logo.png)
 
