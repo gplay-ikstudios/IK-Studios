@@ -10,13 +10,11 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+**For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.**
 
-The app does use third party services that may collect information used to identify you.
+**The app does use third party services that may collect information used to identify you. The app accesses the amount of steps that you have taken, according to your Google account. Your data is not shared others. Your data is converted to speech which is them emittted when the user taps on the screen.**
 
-Link to privacy policy of third party service providers used by the app
-
-*   [Google Play Services](https://www.google.com/policies/privacy/)
+**This app uses Google Play Services.**
 
 **Log Data**
 
